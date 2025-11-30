@@ -43,7 +43,7 @@ class HelloController {
                 </style>
             </head>
             <body>
-                <h1>Hello from <br>CCIT</h1>
+                <h1>Hello from ccit <br>CCIT</h1>
             </body>
             </html>
         """;
